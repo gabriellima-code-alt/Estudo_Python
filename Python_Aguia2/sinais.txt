@@ -1,0 +1,6 @@
+> Maior que
+< Menor que
+>= Maior ou Igual
+<= Menor ou Igual
+== Igual a
+!= Diferente
